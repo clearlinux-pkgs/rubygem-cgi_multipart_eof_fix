@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cgi_multipart_eof_fix
 Version  : 2.5.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/cgi_multipart_eof_fix-2.5.0.gem
 Source0  : https://rubygems.org/downloads/cgi_multipart_eof_fix-2.5.0.gem
 Summary  : No detailed summary available
@@ -57,17 +57,12 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/cgi_multipart_eof_fix-2.5.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/cgi_multipart_eof_fix-2.5.0/ri/CGI/QueryExtension/body;/cdesc-body;.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cgi_multipart_eof_fix-2.5.0/ri/CGI/QueryExtension/cdesc-QueryExtension.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cgi_multipart_eof_fix-2.5.0/ri/CGI/QueryExtension/read_multipart-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cgi_multipart_eof_fix-2.5.0/ri/CGI/cdesc-CGI.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cgi_multipart_eof_fix-2.5.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/Manifest
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/README
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/cgi_multipart_eof_fix.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/lib/cgi_multipart_eof_fix.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cgi_multipart_eof_fix-2.5.0/test/test_cgi_multipart_eof_fix.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/cgi_multipart_eof_fix-2.5.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/cgi_multipart_eof_fix-2.5.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/Manifest
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/README
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/cgi_multipart_eof_fix.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/lib/cgi_multipart_eof_fix.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cgi_multipart_eof_fix-2.5.0/test/test_cgi_multipart_eof_fix.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/cgi_multipart_eof_fix-2.5.0.gemspec
